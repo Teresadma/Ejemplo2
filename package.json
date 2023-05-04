@@ -1,0 +1,11 @@
+{
+  "name": "ejemplo2",
+  "version": "1.0.0",
+  "description": "PASOS A SEGUIR:\r 1. GIT INIT\r 2. GIT ADD\r 3. GIT STATUS\r 4. GIT COMMIT\r 5. GIT PUSH",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
